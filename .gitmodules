@@ -1,0 +1,11 @@
+[submodule "tutorials"]
+	path = tutorials
+	url = https://github.com/odoo/tutorials.git
+[submodule "odoo"]
+	path = odoo
+	url = https://github.com/odoo/odoo.git
+	branch = 19.0
+[submodule "extra-addons/openeducat_erp"]
+	path = extra-addons/openeducat_erp
+	url = https://github.com/openeducat/openeducat_erp.git
+	branch = 19.0
